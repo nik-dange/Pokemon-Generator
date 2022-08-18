@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const server = 'http://localhost:5050';
+const server = 'https://pokemon-generator-nikd.herokuapp.com/';
 
 const API = {
     getPokemon: function () {
